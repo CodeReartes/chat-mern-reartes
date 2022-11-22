@@ -33,3 +33,11 @@ chat usuario diego
 
 chat usuario reartes94
 ![chat reartes94](https://user-images.githubusercontent.com/99770150/203378472-96a8db8c-f5eb-4cb4-9ff2-66774c21d95c.png)
+
+
+mongodb user registry 
+![registro de usuarios MongoDB](https://user-images.githubusercontent.com/99770150/203379566-fd5733dc-dca2-4271-9659-820ebbf6a563.png)
+
+mongodb message log
+![Registro de mensajes MongoDB](https://user-images.githubusercontent.com/99770150/203379696-b5b3e8b7-9a6a-4ef5-928a-6ef3ea8800c0.png)
+
